@@ -1,0 +1,33 @@
+.testcss{
+	color:red;
+	background-color: skyblue;
+}
+
+p{
+	color:grey;
+}
+p:hover{
+	color:green;
+}
+
+img{
+	padding: 50px;
+}
+
+#yolox{
+	background-color: tomato;
+	border: 2px double black;
+}
+
+#marmar{
+	margin-top:80px;
+}
+
+p{
+	display: inline;
+	width: 33%;
+}
+
+#hola{
+	margin: 90px;
+}
